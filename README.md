@@ -33,7 +33,7 @@ Feel like getting started right away? You can sign up for a Free Trial plan to g
 An extensive API documentation, including code examples and extensive descriptions can be found [here](https://www.theapibridge.com/docs/findbyaddresses).
 
 ## Customer Support
-For any API integration, support, technical or billing-related queries? [Get in touch with us](mailto:hello@theapibridge.com?subject=[TheAPIBridge Support]).
+For any API integration, support, technical or billing-related queries? [Get in touch with us](mailto:hello@theapibridge.com).
 
 ## Legal
 All usage of the theapibridge Developer Portal, API, and services is subject to the theapibridge [Terms & Conditions](https://www.theapibridge.com/legal/terms-of-service).
