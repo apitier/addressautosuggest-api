@@ -1,13 +1,13 @@
-# Find By Addresses API
+# Address Autosuggest API
 
-“Find By Addresses” API gets addresses for given search term. This API provides a JSON interface to search UK addresses. 
+“Address Autosuggest” API suggests partial address results for a given search term. This API provides a JSON interface to extract address suggestions for a complete or partial address query.
 
-This API gives access to Royal Mail PAF data and Geocoding.
+This API can be used to power real-time address finders. The Autocomplete API suggests partial address results for a given query.
 
 [Get a free API access key](https://www.theapibridge.com/signup) for trial requests.
 
 ## API Features
-* **Simple RESTFUL API**
+* **Simple RESTFUL API** 
 * **Easy To Integrate**
 * **Up-To-Date Data**
 * **Mobile-friendly JSON API**
@@ -15,7 +15,7 @@ This API gives access to Royal Mail PAF data and Geocoding.
 * **Pay As You Go Pricing**
 
 ## API UseCases
-Find By Addresses API can be integrated with any website, mobile app which requires Address Lookup functionality.
+Address Autosuggest API can be integrated with any website, mobile app which requires Address Lookup functionality.
 
 Example Use Cases -
 
@@ -30,7 +30,7 @@ Very affordable pricing, each PostCode API request costs **2P** per API call irr
 Feel like getting started right away? You can sign up for a Free Trial plan to get free requests: [Signup - Free Trial](https://www.theapibridge.com/signup)
 
 ## Documentation
-An extensive API documentation, including code examples and extensive descriptions can be found [here](https://www.theapibridge.com/docs/findbyaddresses).
+An extensive API documentation, including code examples and extensive descriptions can be found [here](https://www.theapibridge.com/docs/addressautosuggest).
 
 ## Customer Support
 For any API integration, support, technical or billing-related queries? [Get in touch with us](mailto:hello@theapibridge.com).
